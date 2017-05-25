@@ -1,5 +1,4 @@
 /**
-Plik z funkcja main() do cwiczenia na laboratoriach z AISDI.
 
 COPYRIGHT:
 Copyright (c) 2015 Instytut Informatyki, Politechnika Warszawska
