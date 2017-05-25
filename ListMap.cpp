@@ -1,13 +1,4 @@
 /**
-   Plik do modyfikacji w ramach cwiczenia z AISDI.
-   Zawiera niekompletne implementacje metod klasy ListMap,
-   oraz mape podobna koncepcyjnie do tej z cwicznia 1 (SmallMap)
-   zaimplementowana w jescze bardziej szczatkowy sposob.
-   Jest tez prosta funkcja testujaca (void test()), ktora
-   jest wolana w funkcji main. Mozna w niej zaimplementowac
-   wlasne testy.
-   NALEZY ZMODYFIKOWAC I UZUPELNIC CIALA METOD KLASY LISTMAP.
-
    COPYRIGHT:
    Copyright (c) 2015 Instytut Informatyki, Politechnika Warszawska
    ALL RIGHTS RESERVED
