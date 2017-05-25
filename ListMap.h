@@ -1,8 +1,4 @@
 /**
-   Zawiera deklaracje klasy ListMap.
-   Jest to mapa (Slownik) zrobiona na liscie/pierscieniu.
-   Implementacja tej klasy jest przedmiotem cwiczenia na laboratoriach z AISDI.
-
    COPYRIGHT:
    Copyright (c) 2015 Instytut Informatyki, Politechnika Warszawska
    ALL RIGHTS RESERVED
